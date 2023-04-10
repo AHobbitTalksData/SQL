@@ -6,7 +6,7 @@ The challenge consists of the following instructions:
 *2) It has a population of at least twenty-five million (i.e., 25000000).* 
 *Write an SQL query to report the name, population, and area of the big countries. Return the result table in any order.* 
 
-My solution can be found in the code above. In it, you can find that I created a database, the table, added information to the columns and filtered in order to only show the information that follows the requirements. 
+My solution can be found in the code above. You will find that I created a database, the table, added information to the columns and filtered in order to only show the information that follows the requirements. 
 
 (This challenge was taken from leetcode.com)
 
