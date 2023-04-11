@@ -13,7 +13,7 @@ PRIMARY KEY (product_id)
 /* Adding information into the table we jsut created */ 
 insert into products (low_fats, recyclable)
 values 
-	  ('Y', 'N'),
+    ('Y', 'N'),
     ('Y', 'Y'),
     ('N', 'Y'), 
     ('Y', 'Y'),
