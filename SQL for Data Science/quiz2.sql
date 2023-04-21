@@ -8,6 +8,7 @@ FROM TRACKS
 WHERE Milliseconds >= 5000000;
 
 /* How many tracks are returned?
+
 R/ 2 */
 
 --------------------------------------------------------------------------------------------------------------
@@ -37,6 +38,7 @@ FROM Customers
 WHERE State IN ('RJ','DF','AB','BC','CA','WA','NY');
 
 /* What company does Jack Smith work for?
+
 R/ Microsoft */
 
 --------------------------------------------------------------------------------------------------------------
@@ -48,6 +50,7 @@ WHERE CustomerID IN (56,58) AND
 Total BETWEEN 1 AND 5;
 
 /* What was the invoice date for invoice ID 315?
+
 R/ 2012-10-27 */ 
 
 --------------------------------------------------------------------------------------------------------------
@@ -58,6 +61,7 @@ FROM Tracks
 WHERE Name LIKE 'All%';
 
 /* While only 10 records are shown, the query will indicate how many total records there are for this query - enter that number below.
+
 R/ 15 */ 
 
 --------------------------------------------------------------------------------------------------------------
@@ -79,6 +83,7 @@ WHERE BillingCity IN ('Brasilia','Edmonton','Vancouver')
 ORDER BY InvoiceId DESC;
 
 /* What is the total invoice amount of the first record returned? Enter the number below without a $ sign.
+
 R/ 13.86 */ 
 
 --------------------------------------------------------------------------------------------------------------
@@ -91,6 +96,7 @@ GROUP BY CustomerId
 ORDER BY Orders DESC;
 
 /* What is the number of items placed for the 8th person on this list? Enter that number below.
+
 R/ 7 */ 
 
 --------------------------------------------------------------------------------------------------------------
@@ -102,5 +108,6 @@ GROUP BY AlbumId
 HAVING COUNT (*) >= 12;
 
 /* While the number of records returned is limited to 10, the query, if run correctly, will indicate how many total records there are. 
+
 R/ 158 */ 
 
