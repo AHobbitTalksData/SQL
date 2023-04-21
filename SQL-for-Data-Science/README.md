@@ -1,5 +1,5 @@
 # SQL-for-Data-Science
 
-## University of California, Davis
+### University of California, Davis
 
-# Coursera 
+#### Coursera 
