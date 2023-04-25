@@ -2,3 +2,5 @@
 
 
 University of California, Davis |  Coursera
+
+You can find here my answers for the graded quizzes. Also, the document called 'YELP.sql' contains all the code for the final assignment and a little project we did with the YELP database. 
