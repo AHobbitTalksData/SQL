@@ -1,5 +1,5 @@
-Author: Jessy Acuña Rodríguez
-Date: 04/24/2023
+--Author: Jessy Acuña Rodríguez
+--Date: 04/24/2023
 
 -- create the database
 CREATE DATABASE supermarket;
