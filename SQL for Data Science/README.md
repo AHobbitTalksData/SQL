@@ -3,4 +3,4 @@
 
 University of California, Davis |  Coursera
 
-You can find here my answers for the graded quizzes. Also, the document called **Yelp_Dataset.sql** contains all the code for the final assignment and a little project we did with the YELP database. 
+You can find here my answers for the graded quizzes. Also, the document called **Yelp_Dataset.sql** contains the code for the final assignment and a little project.
