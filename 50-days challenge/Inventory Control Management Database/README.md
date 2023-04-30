@@ -12,7 +12,7 @@ The questions I will be working on are:
 
 As for the database: https://www.kaggle.com/datasets/yasserh/walmart-dataset
 
-This is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the file Walmart_Store_sales. Within this file you will find the following fields:\
+This is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the file Walmart_Store_sales. Within this file you will find the following fields:
 
 - Store - the store number
 - Date - the week of sales
